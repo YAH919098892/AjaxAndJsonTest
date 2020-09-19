@@ -22,7 +22,7 @@ public class UserController {
     @ResponseBody
     public List<User> an(HttpServletResponse response) throws IOException {
         response.setCharacterEncoding("utf-8");
-        User user=new User(11,"杨安华","广州");
+        User user=new User(11,"杨安56华","广州");
         User user2=new User(22,"杨安华","广州");
         User user3=new User(33,"杨安华","广州");
         User user4=new User(44,"杨安华","广州");
