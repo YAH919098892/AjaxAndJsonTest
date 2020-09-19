@@ -33,7 +33,7 @@ public class UserAjax {
         List<User> userList=new ArrayList<>();
         User user=new User(1,"abh","gz");
         User user1=new User(2,"ah","sh");
-        User user2=new User(3,"ah","mm");
+        User user2=new User(3,"ah2","mm");
         User user3=new User(4,"ah","sz");
         userList.add(user);
         userList.add(user1);
